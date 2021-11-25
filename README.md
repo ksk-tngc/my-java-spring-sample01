@@ -1,5 +1,3 @@
-my-java-spring-sample01
-
 ## 概要
 
 以下の要素を含む簡単な Spring Boot アプリケーションです。
