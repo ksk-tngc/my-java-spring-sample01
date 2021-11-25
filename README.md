@@ -4,7 +4,7 @@
 
 * バリデーションエラーを画面に表示
 * 画面上の文言・メッセージを国際化
-* WebJars で BootStrap 導入
+* WebJars で Bootstrap 導入
 
 ## 画面
 
